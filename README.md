@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **saas**
 
-- 🌱 I’m currently learning **nests**
+- 🌱 I’m currently learning **nestjs**
 
 - 💬 Ask me about **c#**
 
